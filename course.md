@@ -235,51 +235,72 @@ Dota 2 (Defense of the Ancients 2) — это командная стратег�
 - Северная Америка:
     - Shopify Rebellion 
      <img src="images/teams/sr.png" alt="drawing" width="200"/>
+
     - WildCard
     <img src="images/teams/wildcard.webp" alt="drawing" width="200"/>
+
 - Южная Америка:
     - Heroic
     <img src="images/teams/geroic.webp" alt="drawing" width="200"/>
+
 - Западная Европа:
     - Team Falcons
     <img src="images/teams/team falcons.webp" alt="drawing" width="200"/>
+
     - Nigma Galaxy
     <img src="images/teams/nigma.webp" alt="drawing" width="200"/>
+
     - Tundra Esports
     <img src="images/teams/tundra.webp" alt="drawing" width="200"/>
+
     - Team Liquid
     <img src="images/teams/liquid.png" alt="drawing" width="200"/>
+
     - Gaimin Gladiators
     <img src="images/teams/пп.webp" alt="drawing" width="200"/>
+
     - OG
     <img src="images/teams/og.webp" />
+
     - Team Secret
     <img src="images/teams/team secret.png" alt="drawing" width="500"/>
+
 - Восточная Европа (СНГ):
     - PARIVISION
     <img src="images/teams/pari.webp" alt="drawing" width="400"/>
+
     - Team Spirit
     <img src="images/teams/ts.jpg" alt="drawing" width="200"/>
+
     - BetBoom Team
     <img src="images/teams/bb.webp" alt="drawing" width="200"/>
+
     - Aurora Gaming
     <img src="images/teams/aurora.webp" alt="drawing" width="200"/>
+
     - Virtus Pro
     <img src="images/teams/vp.jpg" alt="drawing" width="200"/>
+
     - Natus Vincere
     <img src="images/teams/navi.jpg" alt="drawing" width="200"/>
+
 - Китай:
     - Xtreme Gaming
     <img src="images/teams/xtreme.webp" alt="drawing" width="300"/>
+
     - Team Tidebound
     <img src="images/teams/tt.webp" alt="drawing" width="200"/>
+
     - Yakult Brothers
     <img src="images/teams/yakult.webp" alt="drawing" width="200"/>
+
 - Юго-Восточная Азия:
     - Talon
     <img src="images/teams/talon.webp" alt="drawing" width="200"/>
+
     - BOOM Esports
     <img src="images/teams/boom.webp" alt="drawing" width="400"/>
+    
 
 Но это просто по регионам Если выделить просто сильных в доте на 15/09/2025 то это
 - Team Falcons
